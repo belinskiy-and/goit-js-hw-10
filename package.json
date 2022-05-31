@@ -2,6 +2,7 @@
   "name": "goit-js-hw-10",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "homepage": "https://belinskiy-and.github.io/goit-js-hw-10",
   "scripts": {
     "dev": "parcel src/*.html",
